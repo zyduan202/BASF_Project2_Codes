@@ -1,7 +1,6 @@
 # Project 2: Catalyst Design with Decision Trees and Shapley Additive Explanations
 
-Zhaoyan Duan, Haotong Xie
-
+Duan and Xie
 ## INTRODUCTION
 
 Recently, machine learning (ML) has emerged as a promising tool for catalyst discovery and optimization. In particular, the paper "Identifying Descriptors for Promoted Rhodium-Based Catalysts for Higher Alcohol Synthesis via Machine Learning" by Suvarna et al. has demonstrated the potential of ML models for identifying key catalytic descriptors for higher alcohol synthesis process.
